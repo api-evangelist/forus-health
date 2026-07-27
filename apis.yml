@@ -1,8 +1,16 @@
 aid: forus-health
 name: Forus Health
-description: 'Forus Health is a company surfaced as a portfolio company of accel and added to the API
-  Evangelist network as a stub for enrichment. Sector: manufacturing. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Forus Health Pvt Ltd is a Bengaluru, India based medical device manufacturer
+  specializing in advanced eye-care and retinal-imaging technology. Its 3nethra family
+  of devices covers adult and neonatal retinal imaging, refraction and myopia management,
+  and anterior-segment imaging, complemented by the FH-POISE AI diagnostic platform
+  that screens for diabetic retinopathy, glaucoma, cataract, hypertensive retinopathy,
+  age-related macular degeneration, and dry eye. Forus also operates connected
+  telemedicine platforms (FH TeleCare, FH TeleEye, FH TeleOpticals) for remote eye
+  screening. The company reports more than 5,000 installations across 85+ countries.
+  This profile was surfaced as a portfolio company of Accel and added to the API
+  Evangelist network; no public developer API or documentation surface was found
+  during enrichment.'
 url: https://raw.githubusercontent.com/api-evangelist/forus-health/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +18,30 @@ x-backed-by:
 - accel
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://forushealth.com/wp-content/uploads/2021/09/forus-logo.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Manufacturing
+- Medical Devices
+- Health
+- Ophthalmology
+- Retinal Imaging
+- Telemedicine
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +49,16 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/forus-health-domain-security.yml
 - type: Website
-  url: http://www.forushealth.com
+  url: https://www.forushealth.com
+- type: Support
+  url: https://forushealth.com/support/
+- type: PrivacyPolicy
+  url: https://forushealth.com/privacy-policy/
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
