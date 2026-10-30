@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Forus Health is a company surfaced as a portfolio company of accel and added to the API Evangelist network as a stub for enrichment. Sector: manufacturing. This profile is a lead awaiting the enrichment pipeline.
+Forus Health Pvt Ltd is a Bengaluru, India based medical device manufacturer specializing in advanced eye-care and retinal-imaging technology. Its 3nethra family of devices covers adult and neonatal retinal imaging, refraction and myopia management, and anterior-segment imaging, complemented by the FH-POISE AI diagnostic platform that screens for diabetic retinopathy, glaucoma, cataract, hypertensive retinopathy, age-related macular degeneration, and dry eye. Forus also operates connected telemedicine platforms (FH TeleCare, FH TeleEye, FH TeleOpticals) for remote eye screening. The company reports more than 5,000 installations across 85+ countries. This profile was surfaced as a portfolio company of Accel and added to the API Evangelist network; no public developer API or documentation surface was found during enrichment.
 
-Backed by: accel — http://www.forushealth.com
+**Areas:** Company · Manufacturing · Medical Devices · Health · Ophthalmology · Retinal Imaging · Telehealth · Artificial Intelligence
+
+## Forus Health on APIs.io
+
+Everything profiled for Forus Health is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/forus-health/](https://apis.io/providers/forus-health/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Forus Health Domain Security](https://apis.io/security/forus-health/forus-health-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.forushealth.com)
+- [Support](https://forushealth.com/support/)
+- [Privacy policy](https://forushealth.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 7.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.4** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/forus-health/](https://apis.io/providers/forus-health/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Forus Health: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/forus-health/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
